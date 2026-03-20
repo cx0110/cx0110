@@ -7,4 +7,4 @@
 - 🌱 **Exploring**: AI/ML integration, Distributed systems, Cloud security
 - 💞️ **Looking for**: Innovative OSS projects & DevOps toolchain optimization
 
-🔗 **Connect**: [@ed10x](https://github.com/cx0110)
+🔗 **Connect**: [@cx0110](https://github.com/cx0110)
