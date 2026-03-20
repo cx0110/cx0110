@@ -1,8 +1,10 @@
 # 👋 Hi, I'm @cx0110
 
-Experienced **Go Developer** focused on **Infrastructure**, **CI/CD**, and **Cloud Native** ecosystems. Currently exploring **AI-driven development** and **large-scale distributed systems**.
+> **Go Developer** | Infrastructure & CI/CD Specialist | Cloud Native Enthusiast
 
-Open to collaborating on **DevOps optimization** and **open source infrastructure** projects.
+- 💻 **Tech**: Go, Python, React
+- 🔭 **Building**: Reliable systems, Modern DevOps pipelines
+- 🌱 **Exploring**: AI/ML integration, Distributed systems, Cloud security
+- 💞️ **Looking for**: Innovative OSS projects & DevOps toolchain optimization
 
-💻 **Stack**: Go • Python • React
-📫 **Contact**: [GitHub](https://github.com/cx0110)
+🔗 **Connect**: [@ed10x](https://github.com/cx0110)
